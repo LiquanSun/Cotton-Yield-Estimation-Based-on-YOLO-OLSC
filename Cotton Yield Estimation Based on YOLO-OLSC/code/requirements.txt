@@ -1,0 +1,7 @@
+﻿numpy>=2.0
+opencv-contrib-python>=4.10
+scikit-image>=0.24
+scipy>=1.14
+tifffile>=2024.8
+ultralytics>=8.3.233
+torch>=2.5.1
